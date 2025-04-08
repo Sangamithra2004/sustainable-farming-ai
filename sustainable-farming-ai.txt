@@ -1,0 +1,9 @@
+sustainable-farming-ai/
+├── multiagent/
+├── database/
+│   └── farming_data.sqlite
+├── website/
+│   └── index.html
+├── README.md
+├── requirements.txt
+└── main.py
