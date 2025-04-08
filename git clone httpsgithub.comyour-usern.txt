@@ -1,0 +1,2 @@
+git clone https://github.com/your-username/sustainable-farming-ai.git
+cd sustainable-farming-ai
